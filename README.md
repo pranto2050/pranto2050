@@ -1,15 +1,8 @@
-<p align="left"># Hi there, I'm Pranto! 👋</p>
-
-###
-
+### <p align="left"># Hi there, I'm Pranto! 👋</p>
 <div align="left">
-  <img height="200" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+  <img src="https://i.ibb.co.com/KsRh7Hr/My-Baner-Design.jpg"  />
 </div>
-
-###
-
-###
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
