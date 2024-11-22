@@ -1,6 +1,4 @@
 <h2 align="left"># Hi there, I'm Pranto! 👋 </h2> <br>
-<h2 align="left">I am a student at IUBAT Uneversity 👋 </h2>
-
 ###
 
 <div align="center">
