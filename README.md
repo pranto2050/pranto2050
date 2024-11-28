@@ -1,5 +1,9 @@
 ### <p align="left"># Hi there, I'm Pranto! 👋</p>
 <br>
+## 💫 About Me:
+
+🌱 I’m currently studying **Fontend Development & C++ **<br><br>
+👯 I’m looking to collaborate on **Open Source Projects**<br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
