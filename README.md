@@ -1,7 +1,4 @@
 ### <p align="left"># Hi there, I'm Pranto! 👋</p>
-<div align="center">
-  <img src="https://i.ibb.co.com/KsRh7Hr/My-Baner-Design.jpg"  />
-</div>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
